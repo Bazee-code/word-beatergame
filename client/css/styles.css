@@ -1,0 +1,12 @@
+*{
+	margin:0;
+	padding: 0;
+}
+
+#home-section{
+	height: 90vh;
+}
+
+.navbar-brand{
+	font-size: 30px;
+}
